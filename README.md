@@ -28,9 +28,9 @@ A simple, user-friendly macOS app that uses Apple's Game Porting Toolkit (GPTK) 
 1. Install [Apple's Game Porting Toolkit](https://developer.apple.com/games/game-porting-toolkit/).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/myappname.git
+   git clone https://github.com/yourusername/Khamba-App.git
    ```
-3.	Open MyAppName.xcodeproj in Xcode.
+3.	Open Khamba.xcodeproj in Xcode.
 4.	Build and run!
 
 Alternatively, download a prebuilt binary from Releases (coming soon).
