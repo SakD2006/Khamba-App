@@ -10,7 +10,7 @@ A simple, user-friendly macOS app that uses Apple's Game Porting Toolkit (GPTK) 
 - Manage game installations and settings
 - Create and manage Wine prefixes
 - Automatically configure launch settings
-- Supports Apple Silicon (M1, M2, M3) and Intel Macs
+- Supports Apple Silicon
 - Modern SwiftUI-based interface
 
 ---
