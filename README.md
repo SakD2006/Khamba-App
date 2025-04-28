@@ -35,10 +35,12 @@ A simple, user-friendly macOS app that uses Apple's Game Porting Toolkit (GPTK) 
 
 Alternatively, download a prebuilt binary from Releases (coming soon).
 
-⸻
+---
 
 ## 📸 Screenshots
 will attach this soon
+
+---
 
 ## ⚙️ Usage
 1.	Open the app.
@@ -46,20 +48,20 @@ will attach this soon
 3.	Install your Windows game or app inside the bottle.
 4.	Click Launch — and enjoy!
 
-⸻
+---
 
 ## 🛡️ License
 
 This project is licensed under the MIT License.
 
-⸻
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the project and submit pull requests.
 Please make sure to read the Contributing Guidelines first.
 
-⸻
+---
 
 ## 📢 Disclaimer
 
@@ -67,7 +69,7 @@ This tool is intended for educational and personal use only.
 All rights to third-party software, including the Game Porting Toolkit, are owned by their respective owners.
 You must install and configure GPTK separately in accordance with Apple’s terms and conditions.
 
-⸻
+---
 
 ## 🧡 Credits
 •	Apple for the Game Porting Toolkit
