@@ -1,4 +1,4 @@
-# Khamba
+# 🍾 Khamba
 
 A simple, user-friendly macOS app that uses Apple's Game Porting Toolkit (GPTK) under the hood to run Windows games on Mac, with an easy graphical interface.
 
